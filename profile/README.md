@@ -22,10 +22,11 @@ This organization — **[@Classevelabs](https://github.com/Classevelabs)** — i
 | --- | --- |
 | Website | [classeve.com](https://classeve.com) — the only official ClassEve domain |
 | Open-source code | this organization |
+| Organization owner | [classeve-public](https://github.com/classeve-public) — also an official ClassEve account |
 | Rust crates | the `classeve-rai-*` namespace on [crates.io](https://crates.io/crates/classeve-rai-server) |
 | Security contact | [security.txt](https://classeve.com/.well-known/security.txt) · security@classeve.com |
 
-`github.com/classeve-public` is our former public account; its URLs redirect here and it is no longer the canonical home.
+`github.com/classeve-public` is **also an official ClassEve account** — it owns this organization. Repository URLs published under it before this organization existed still resolve; GitHub redirects them here. ClassEve runs more than one account on purpose: this organization for public open-source work, and separate accounts for everything else.
 
 **Not affiliated with ClassEve:** the GitHub account [`github.com/ClassEve`](https://github.com/ClassEve) has a username matching our brand name but is an unrelated third-party personal account, created in 2016, holding unrelated web projects. It has no connection to ClassEve and we have never operated under it. It is named here only so it is not mistaken for ours.
 
