@@ -12,7 +12,7 @@ Website: **[classeve.com](https://classeve.com)**
 | --- | --- |
 | **[Lven Instant](https://classeve.com/releases/lven)** | Offline voice-to-text for Windows, Linux, and Android — on-device, audio never uploaded |
 | **[Lven Cloud](https://classeve.com/releases/lven/cloud)** | Server-transcribed dictation for hardware below the on-device floor |
-| **[REX](https://classeve.com/rex)** | An AI computer operator for Windows — voice or typed instructions |
+| **[REX](https://classeve.com/rex)** | A coding agent that runs your whole Windows PC — writes code and works your apps by voice or text |
 | **[earslate](https://classeve.com/releases/earslate)** | Free live speech translation on Android, on your own Gemini/OpenAI key |
 | **[Folio PDF](https://classeve.com/public/folio-pdf)** | Free Android document opener — PDF, DOCX, XLSX, and more |
 | **[Context Zero Engine](https://classeve.com/public/context-zero-engine)** | Code intelligence for AI agents — a local code graph over MCP |
